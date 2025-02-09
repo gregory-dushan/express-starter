@@ -1,10 +1,7 @@
-![Node.js CI](https://github.com/mucahitnezir/express-starter/workflows/Node.js%20CI/badge.svg?branch=master)
 
 # Express Starter
 
 This project was created to be a template when starting a new [express.js](https://github.com/expressjs/express) project.
-
-[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run?git_repo=https://github.com/mucahitnezir/express-starter.git)
 
 ## Features
 
@@ -23,10 +20,6 @@ For more info, browse `src/helpers/mail.js` file.
 12. Cache management with [redis](https://redis.io/).
 13. One click deploy to [Google Cloud Run](https://cloud.google.com/run).
 
-## Api Documentation
-Api documentation of this project was created with [swagger](https://swagger.io/).  
-You can access the swagger configuration file from [this link](https://app.swaggerhub.com/apis/mucahitnezir/express-starter/).  
-You can also discover the interactive documentation by going to `/docs` when you run the application.
 
 ## Database Selection
 This project is compatible with sql-based databases. You can change default dialect (postgres) in anytime.
